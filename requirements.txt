@@ -1,0 +1,5 @@
+colorama==0.4.6
+numpy==1.23.5
+opencv-python==4.6.0.66
+pyfiglet==0.8.post1
+qrcode==7.3.1
